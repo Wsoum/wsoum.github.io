@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: https://wsoum.ml
+redirect_url: https://wsoum.eu.org
 ---
